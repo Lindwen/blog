@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-06-08T10:12:37+02:00
-draft: true
+draft: false
 tags:
   - untagged
 ---
