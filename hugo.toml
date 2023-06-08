@@ -1,4 +1,4 @@
 baseURL = 'https://blog.lindwen.fr/'
 languageCode = 'fr-FR'
 title = 'Blog de Lindwen'
-theme = 'hugo-theme-serial-programmer'
+theme = 'PaperMod'
