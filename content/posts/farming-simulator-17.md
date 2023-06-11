@@ -8,8 +8,7 @@ tags:
   - intel processor
 ---
 
-# Farming Simulator 17
-## Solution au problème de connexion de Farming Simulator 17 sur STEAM avec un processeur Intel de 12e génération
+### Solution au problème de connexion de Farming Simulator 17 sur STEAM avec un processeur Intel de 12e génération
 
 Si vous rencontrez des problèmes de connexion avec votre jeu Farming Simulator 17 sur STEAM, spécialement avec un processeur Intel de 12e génération.
 Vous devez créer une règle sortante dans le pare-feu Windows pour bloquer TOUTES les connexions de l'application du jeu.
@@ -27,7 +26,7 @@ Voici les étapes à suivre :
 Cette règle bloque toutes les connexions sortantes de l'application du jeu. Donc le multijoueur ne fonctionnera pas.
 Pour résoudre ce problème, vous devez ajouter une exception à cette règle pour autoriser les connexions sortantes vers le site web farming-simulator.com.
 
-3.Cliquez sur propriétés, allez à la page "Étendue".
+3. Cliquez sur propriétés, allez à la page "Étendue".
 4. Dans l'option "Adresse IP distante", sélectionnez "Ces adresses IP" et cliquez sur Ajouter...
 5. Dans la zone "Cette adresse IP ou ce sous-réseau", insérez l'adresse IP du site web farming-simulator.com (195.201.15.2).
    5.1. Vous pouvez vérifier l'adresse IP de ce site en utilisant l'invite de commande (CMD) avec la commande : `ping farming-simulator.com`
