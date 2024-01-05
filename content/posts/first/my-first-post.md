@@ -6,9 +6,14 @@ tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
 date: 2022-09-04
+featuredImage: "https://picsum.photos/seed/picsum/200/300"
 draft: false
 ---
 
 ## Introduction
 
 Hello, World!
+
+```python
+Hello, World!
+```
