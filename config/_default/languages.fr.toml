@@ -1,11 +1,11 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "fr"
+languageName = "Français"
 weight = 1
-title = "Blowfish"
+title = "Lindwen's Blog"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "FR"
+  isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
