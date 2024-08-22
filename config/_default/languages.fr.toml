@@ -13,14 +13,14 @@ title = "Lindwen's Blog"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
+[author]
+  name = "Lindwen"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
-#   links = [
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -29,12 +29,12 @@ title = "Lindwen's Blog"
 #     { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
-#     { discord = "https://discord.gg/invitecode" },
+    { discord = "https://discord.gg/Jj7qEP3gg2" },
 #     { dribbble = "https://dribbble.com/username" },
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/Lindwen" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -69,4 +69,4 @@ title = "Lindwen's Blog"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
